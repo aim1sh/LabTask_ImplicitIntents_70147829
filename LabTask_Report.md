@@ -3,16 +3,15 @@
 ### Mobile Application Development (CS02310) — Lab Task Report
 **Semester:** Fall 2026 | 7th Semester | Section S  
 **Course Code:** CS02310  
-**Mapped CLO:** CLO-4 (Bloom's: Creating / C6) → PLO-5 / GA-5 (Modern Tool Usage)  
 **Topic:** Multi-Screen Application using Implicit & Explicit Intents with Input Validation  
 
 ---
 
 ### Student Information
-- **Student Name:** [Your Name Here]
-- **SAP ID:** [Your SAP ID Here]
+- **Student Name:** Aimish Umar
+- **SAP ID:** 70147829
 - **Section:** S
-- **GitHub Repository Link:** [https://github.com/YourUsername/LabTask_ImplicitIntents_YourSAPID](https://github.com/YourUsername/LabTask_ImplicitIntents_YourSAPID)
+- **GitHub Repository Link:** [https://github.com/aim1sh/LabTask_ImplicitIntents_70147829](https://github.com/aim1sh/LabTask_ImplicitIntents_70147829)
 - **Submission Date:** October 2026
 
 ---

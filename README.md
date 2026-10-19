@@ -3,8 +3,8 @@
 **The University of Lahore**  
 **Faculty of Information Technology | Department of Software Engineering**  
 **Course:** Mobile Application Development (CS02310) — Section S  
+**Student Name:** Aimish Umar | **SAP ID:** 70147829  
 **Lab Task:** Multi-Screen App using Implicit and Explicit Intents with Input Validation  
-**Mapped CLO:** CLO-4 (Bloom's: Creating / C6) → PLO-5 / GA-5 (Modern Tool Usage)  
 
 ---
 
