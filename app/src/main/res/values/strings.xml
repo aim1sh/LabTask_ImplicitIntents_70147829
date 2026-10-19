@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UOL Help Desk</string>
+    <string name="uol_title">The University of Lahore</string>
+    <string name="uol_subtitle">Student Affairs Help Desk</string>
+
+    <!-- Scenario 1: Home Screen -->
+    <string name="name_hint">Your name</string>
+    <string name="btn_website">Visit Website</string>
+    <string name="btn_call">Call Help Desk</string>
+    <string name="btn_map">Find Campus</string>
+    <string name="btn_request">Send a Request</string>
+    <string name="no_app_found">No app found for this action</string>
+    <string name="error_enter_name">Please enter your name</string>
+
+    <!-- Scenario 2: Request Screen -->
+    <string name="request_screen_title">Help Desk Request</string>
+    <string name="default_student_name">Student</string>
+    <string name="greeting_format">Hello, %1$s!\nHow can we help you today?</string>
+    
+    <string name="phone_label">Direct Call Support</string>
+    <string name="phone_hint">03XXXXXXXXX (11 digits)</string>
+    <string name="btn_call_number">Call This Number</string>
+    <string name="error_invalid_phone">Please enter an 11-digit number starting with 03</string>
+
+    <string name="link_label">Portal &amp; Web Navigator</string>
+    <string name="link_hint">e.g. portal.uol.edu.pk</string>
+    <string name="btn_open_link">Open Link</string>
+    <string name="error_empty_link">Please enter a web link</string>
+</resources>

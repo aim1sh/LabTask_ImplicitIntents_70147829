@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Golden Crest Shield Border -->
+    <path
+        android:fillColor="#006747"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="3.5"
+        android:pathData="M60,10 C88,10 106,22 106,42 C106,75 78,102 60,110 C42,102 14,75 14,42 C14,22 32,10 60,10 Z" />
+
+    <!-- Inner Shield Accent Line -->
+    <path
+        android:fillColor="#0D4733"
+        android:strokeColor="#C5A028"
+        android:strokeWidth="1.5"
+        android:pathData="M60,16 C84,16 99,26 99,44 C99,71 75,95 60,103 C45,95 21,71 21,44 C21,26 36,16 60,16 Z" />
+
+    <!-- Central University Symbol: Open Book / Knowledge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,60 C53,55 42,54 32,56 L32,74 C42,72 53,73 60,78 C67,73 78,72 88,74 L88,56 C78,54 67,55 60,60 Z" />
+
+    <path
+        android:strokeColor="#006747"
+        android:strokeWidth="1.5"
+        android:pathData="M60,60 L60,78" />
+
+    <!-- Knowledge Torch / Flame above book -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M60,30 C64,36 67,39 67,44 C67,48 64,51 60,51 C56,51 53,48 53,44 C53,39 56,36 60,30 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M60,37 C62,40 64,42 64,45 C64,47 62,49 60,49 C58,49 56,47 56,45 C56,42 58,40 60,37 Z" />
+
+    <!-- 3 Stars -->
+    <!-- Center star -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M60,20 L61.5,23.5 L65,24 L62.5,26.5 L63,30 L60,28 L57,30 L57.5,26.5 L55,24 L58.5,23.5 Z" />
+    <!-- Left star -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M44,25 L45.2,27.5 L48,28 L46,30 L46.4,32.5 L44,31 L41.6,32.5 L42,30 L40,28 L42.8,27.5 Z" />
+    <!-- Right star -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M76,25 L77.2,27.5 L80,28 L78,30 L78.4,32.5 L76,31 L73.6,32.5 L74,30 L72,28 L74.8,27.5 Z" />
+
+    <!-- Laurel Wreath base ribbon -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M42,88 C50,92 70,92 78,88 L75,84 C68,87 52,87 45,84 Z" />
+
+</vector>

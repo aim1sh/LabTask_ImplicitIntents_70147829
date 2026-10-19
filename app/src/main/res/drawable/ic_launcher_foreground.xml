@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Crest motif -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32L24,46L54,60L84,46ZM54,32" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,55L34,68C34,76,54,82,54,82C54,82,74,76,74,68L74,55L54,64ZM34,55" />
+    <path
+        android:fillColor="#D4AF37"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2"
+        android:pathData="M78,48L88,58L88,72" />
+</vector>
